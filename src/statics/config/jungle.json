@@ -1,0 +1,20 @@
+{
+    "groups_contract": "eosgroups222",
+    "social":{
+        "github": "https://github.com/CRONEOS",
+        "telegram": "https://t.me/croneos"
+    },
+    "tokens": [
+        {
+            "symbol": "EOS",
+            "account": "eosio.token",
+            "logo": "./statics/images/tokens/eos.png"
+        },
+        {
+            "symbol": "JUNGLE",
+            "account": "eosio.token",
+            "logo": "./statics/images/tokens/jungle.png"
+        }
+    
+    ]
+}
